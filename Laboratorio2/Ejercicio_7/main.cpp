@@ -24,6 +24,6 @@ int main()
     resultado[j]='\0'; //NULL (imprime hasta llegar ahi)
     printf("\nEl resultado seria!\n%s",resultado);
 
-    getchar(); //funcion de una cadena de varios caracteres
+    getchar(); //funcion de una cadena de varios caracteres, lee en orden escrito
    return(0);
 }
